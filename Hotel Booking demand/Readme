@@ -1,4 +1,4 @@
-Data Dictionary
+# Data Dictionary
 
 hotelHotel (H1 = Resort Hotel or H2 = City Hotel)
 is_canceled=Value indicating if the booking was canceled (1) or not (0)
